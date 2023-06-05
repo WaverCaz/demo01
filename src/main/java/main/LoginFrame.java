@@ -19,8 +19,6 @@ public class LoginFrame {
         passwordTextField = new JTextField(10);
         usernameLabel = new JLabel("用户名");
         passwordLabel = new JLabel("密码");
-        System.out.println(123);
-        System.out.println(1);
     }
 
     public void initJFrame() {
